@@ -26,13 +26,13 @@ $provide.value("$locale", {
       "\u0263etr\u0254"
     ],
     "DAY": [
-      "k\u0254si\u0256a",
-      "dzo\u0256a",
-      "bla\u0256a",
-      "ku\u0256a",
-      "yawo\u0256a",
-      "fi\u0256a",
-      "memle\u0256a"
+        "pühapäev",
+        "esmaspäev",
+        "teisipäev",
+        "kolmapäev",
+        "neljapäev",
+        "reede",
+        "laupäev"
     ],
     "ERANAMES": [
       "Hafi Yesu Va Do \u014bg\u0254",
@@ -58,41 +58,41 @@ $provide.value("$locale", {
       "detsember"
     ],
     "SHORTDAY": [
-      "k\u0254s",
-      "dzo",
-      "bla",
-      "ku\u0256",
-      "yaw",
-      "fi\u0256",
-      "mem"
+        "püh",
+        "esm",
+        "tei",
+        "kol",
+        "nel",
+        "ree",
+        "lau"
     ],
     "SHORTMONTH": [
-      "dzv",
-      "dzd",
-      "ted",
-      "af\u0254",
-      "dam",
-      "mas",
-      "sia",
-      "dea",
-      "any",
-      "kel",
-      "ade",
-      "dzm"
+        "jaa",
+        "vee",
+        "mär",
+        "apr",
+        "mai",
+        "juun",
+        "juul",
+        "aug",
+        "sep",
+        "okt",
+        "nov",
+        "det"
     ],
     "STANDALONEMONTH": [
-      "dzove",
-      "dzodze",
-      "tedoxe",
-      "af\u0254f\u0129e",
-      "dama",
-      "masa",
-      "siaml\u0254m",
-      "deasiamime",
-      "any\u0254ny\u0254",
-      "kele",
-      "ade\u025bmekp\u0254xe",
-      "dzome"
+        "jaanuar",
+        "veebruar",
+        "märts",
+        "aprill",
+        "Mai",
+        "juuni",
+        "juuli",
+        "august",
+        "september",
+        "oktoober",
+        "november",
+        "detsember"
     ],
     "WEEKENDRANGE": [
       5,
